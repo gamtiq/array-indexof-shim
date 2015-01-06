@@ -5,7 +5,7 @@ Based on [source from Mozilla](https://developer.mozilla.org/en-US/docs/Web/Java
 
 ## Installation
 
-Via [Component](https://github.com/component/component):
+Via [Component](https://github.com/componentjs/component):
 
     component install gamtiq/array-indexof-shim
 
